@@ -10,6 +10,7 @@
 
 
 #### 2. 게임원리
+![빙고게임  게임원리 이미지](https://user-images.githubusercontent.com/46768786/128986740-c5b62f34-b43c-4b15-80f6-f40c714dadfe.png)
 
 #### 3. 게임방법
 
